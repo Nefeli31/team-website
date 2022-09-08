@@ -15,9 +15,6 @@ h2 {
 .carousel-item img {
   width: 100%;
 }
-img {
-  vertical-align: middle;
-}
 .center {
   display: block;
   margin-left: auto;
@@ -26,4 +23,7 @@ img {
 }
 p {
   font-size: larger;
+}
+.col-4 {
+  padding: 1%;
 }
