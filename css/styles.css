@@ -1,3 +1,7 @@
 .navbar {
   background-color: aquamarine;
 }
+.carousel-inner {
+  size: 50px;
+  margin: 50px;
+}
