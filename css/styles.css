@@ -3,7 +3,12 @@
 }
 h1 {
   text-align: center;
-  padding: 2%;
+  padding: 1%;
+  text-shadow: 2px 2px 5px grey;
+}
+h2 {
+  text-align: center;
+  padding: 0.375rem;
   text-shadow: 2px 2px 5px grey;
 }
 .btn-primary {
