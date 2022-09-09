@@ -32,7 +32,10 @@ p {
   padding: 1%;
   border: 2px solid aquamarine;
 }
-
+.col-4:hover {
+  transform: scale(1.1);
+  background-color: #ffc87d;
+}
 footer {
   text-align: center;
 }
