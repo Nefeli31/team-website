@@ -25,6 +25,7 @@ p {
   font-size: larger;
 }
 .col-4 {
+  margin-top: 5px;
   padding: 1%;
   border: 2px solid aquamarine;
 }
